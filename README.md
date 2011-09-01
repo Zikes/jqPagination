@@ -1,11 +1,11 @@
 # jqPagination, a jQuery pagination plugin (obviously)
 
-GitHub  : http://github.com/beneverard/jqPagination
-Demo    : http://beneverard.github.com/jqPagination#demo
+GitHub  : http://github.com/beneverard/jqPagination  
+Demo    : http://beneverard.github.com/jqPagination#demo  
 
-Website : http://beneverard.co.uk
-Email   : hello@beneverard.co.uk
-Twitter : @ilmv
+Website : http://beneverard.co.uk  
+Email   : hello@beneverard.co.uk  
+Twitter : @ilmv  
 
 ***
  
